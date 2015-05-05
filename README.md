@@ -16,8 +16,10 @@ Repo to organize study material
 
 ## Blogs, Podcasts, digital materials
 
+* [Vim as a Python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g&feature=youtu.be)
+
 ## Courses done
 
-* [Curso de MongoDB - M101J: MongoDB for Java Developers](attach/mongodb.png)
-* [jQuery Basic - codecademy.com / 3hs](attach/jquery.png)
-* [Python - codecademy.com / 13hs](attach/python.png)
+* [Curso de MongoDB - M101J: MongoDB for Java Developers]
+* [jQuery Basic - codecademy.com / 3hs]
+* [Python - codecademy.com / 13hs]
