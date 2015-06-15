@@ -5,7 +5,8 @@ Repo to organize study material
 
 ## Wishlist
 
-* [Seven databases in seven weeks](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
+* [Clean Code](http://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?ie=UTF8&qid=1434382564&sr=8-1&keywords=clean+code)
+* [Pragmatic: Thinking and Learning](http://www.amazon.com.br/Pragmatic-Thinking-Learning-Refactor-Programmers-ebook/dp/B00A32NYYE/ref=sr_1_sc_1?ie=UTF8&qid=1434382598&sr=8-1-spell&keywords=pragmatic+thinkins)
 
 
 ## Done
