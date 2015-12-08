@@ -18,6 +18,7 @@ Repo to organize study material
 ## Blogs, Podcasts, digital materials
 
 * [Vim as a Python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g&feature=youtu.be)
+* [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 
 ## Courses done
 
