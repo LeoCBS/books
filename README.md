@@ -3,6 +3,10 @@
 Repo to organize study material
 
 
+## Reading
+
+* [How Google test Software](https://books.google.com.br/books?id=VrAx1ATf-RoC&redir_esc=y)
+
 ## Wishlist
 
 * [Clean Code](http://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?ie=UTF8&qid=1434382564&sr=8-1&keywords=clean+code)
