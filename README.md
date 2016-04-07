@@ -25,6 +25,10 @@ Repo to organize study material
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
 
+## Concepts and tips
+
+[click here](CONCEPTS_TIPS.md)
+
 ## Courses done
 
 * [Curso de MongoDB - M101J: MongoDB for Java Developers]
