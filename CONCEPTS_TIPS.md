@@ -1,11 +1,13 @@
 # Concepts and tips
 
-## The Four Elements of Simple Design
+### The Four Elements of Simple Design
 
-* Passes the tests
-* Reveals intention
-* No duplication
-* Fewest elements
+This itens helps how thinks in initial project startup
+
+* 1º Passes the tests
+* 2º Reveals intention
+* 3º No duplication
+* 4º Fewest elements
 
 http://martinfowler.com/bliki/BeckDesignRules.html
 
