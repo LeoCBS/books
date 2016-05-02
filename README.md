@@ -29,7 +29,7 @@ Repo to organize study material
 
 ## General annotations
 
-[Git](git_annotations.md)
+* [Git](git_annotations.md)
 
 ## Courses done
 
