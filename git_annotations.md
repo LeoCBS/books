@@ -4,8 +4,8 @@
 
 * Undo last commit
 
-    git reset --soft HEAD^
+```git reset --soft HEAD^```
 
 * Staging some files
 
-    git add --patch
+```git add --patch```
