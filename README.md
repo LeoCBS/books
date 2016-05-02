@@ -25,10 +25,11 @@ Repo to organize study material
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
 * [Go: Best Practices for Production Environments](http://peter.bourgon.org/go-in-production)
+* [The Four Elements of Simple Design](http://martinfowler.com/bliki/BeckDesignRules.html)
 
-## Concepts and tips
+## General annotations
 
-[click here](CONCEPTS_TIPS.md)
+[Git](git_annotations.md)
 
 ## Courses done
 
