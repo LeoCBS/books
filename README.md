@@ -5,7 +5,7 @@ Repo to organize study material
 
 ## Reading
 
-* [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) [notes](notes/pragmatic_programer.md)
+* [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) [(NOTES)](notes/pragmatic_programer.md)
 
 ## Wishlist
 
