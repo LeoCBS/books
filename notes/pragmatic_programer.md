@@ -33,7 +33,7 @@
 * take classea and courses
 * participate groups - don't isolate
 
-### Chapter two
+## Chapter two
 
 ### orthogonality
 
