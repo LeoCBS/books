@@ -56,3 +56,26 @@
 * user get something early
 * better feel progress
 * user feedback more fast
+
+## Chapter seven - Before the project
+
+* work with a User to think like a User
+* Abstractions live longer than details - dont programer details
+* Use a project detail - avoid developer and user confusion
+
+## Chapter eight - Pragmatic Projects
+
+* No Broken Windows - quality is a team issue.
+* Boiled Frogs - vigilant changes
+* improve team communication
+* DRY - avoid team duplication work
+* Organize around functionality, not job function
+* Automate your project
+* Test early, test often, test automatically - the earlier a bug is found, the cheapter is to remedy
+* Code aint't done'til all the tests run
+* Make unit tests, integration tests, valdiation, performance tests
+* Testing the tests - sabote your test to verify se test really works
+* Find bugs once - always make tests to bugs
+* keeping documentation close your code
+* Gently exceed your user's expectations - managing expectations
+* Don't shirk from responsibility - sign your work - make your work on indicator of quality
