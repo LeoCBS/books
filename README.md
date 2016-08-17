@@ -6,6 +6,7 @@ Repo to organize study material
 ## Reading
 
 * [Release It!](https://pragprog.com/book/mnee/release-it) [(NOTES)](notes/releaseit.md)
+* [Pragmatic: Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [(NOTES)]((notes/pragmatic_thinking_and_learning.md))
 
 ## Wishlist
 
