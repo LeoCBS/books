@@ -57,6 +57,35 @@
 * better feel progress
 * user feedback more fast
 
+## Chapter tree
+
+* improve your tools, like vim plugin and shortcuts
+* don't comment how code works, but why this code exist, only if must necessary. Comments only trade offs
+
+## Chapter four - pragmatic paranoia
+
+* don't exist perfect software, prevents for mistakes
+* Use exception only in excpetion cases, don't make logic with exception. How know when use excpetion? If your program don't run removing catch excpetions, probably you don't use expection correctly
+
+## Chapter five - bend, or break
+
+* less code, less bugs
+* make 'shy' code, interact with less people, don't expose
+* meta programing - put details out your code, use dynamic configuration, put abstractions in code
+ 
+## chapter six - while you are coding
+
+* Don't refactor and add functionality at same time
+* have good tests
+* make smallrefactor, baby steeps
+* make tests harnesses
+  - a standard way to setup and clean up tests
+  - a method for selecting individual or all avaliable tests
+  - one way to analyse tests outputs
+  - standardize from failure reporting
+* test your software, or your user will
+* tests is more cultural than technical
+
 ## Chapter seven - Before the project
 
 * work with a User to think like a User
