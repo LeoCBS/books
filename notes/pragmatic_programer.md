@@ -10,7 +10,7 @@
 * always care make well done
 
 
-## chatpter one
+## Chatpter One - A Pragmatic Philosophy
 
 ### genetal concepts
  * don't live with broken windows
@@ -33,7 +33,7 @@
 * take classea and courses
 * participate groups - don't isolate
 
-## Chapter two
+## Chapter two - A Pragmatic Approach
 
 ### orthogonality
 
@@ -57,23 +57,23 @@
 * better feel progress
 * user feedback more fast
 
-## Chapter tree
+## Chapter Tree - The Basic Tools
 
 * improve your tools, like vim plugin and shortcuts
 * don't comment how code works, but why this code exist, only if must necessary. Comments only trade offs
 
-## Chapter four - pragmatic paranoia
+## Chapter Four - Pragmatic Paranoia
 
 * don't exist perfect software, prevents for mistakes
 * Use exception only in excpetion cases, don't make logic with exception. How know when use excpetion? If your program don't run removing catch excpetions, probably you don't use expection correctly
 
-## Chapter five - bend, or break
+## Chapter Five - Bend, or Break
 
 * less code, less bugs
 * make 'shy' code, interact with less people, don't expose
 * meta programing - put details out your code, use dynamic configuration, put abstractions in code
  
-## chapter six - while you are coding
+## chapter Six - While you are coding
 
 * Don't refactor and add functionality at same time
 * have good tests
@@ -86,13 +86,13 @@
 * test your software, or your user will
 * tests is more cultural than technical
 
-## Chapter seven - Before the project
+## Chapter Seven - Before the project
 
 * work with a User to think like a User
 * Abstractions live longer than details - dont programer details
 * Use a project detail - avoid developer and user confusion
 
-## Chapter eight - Pragmatic Projects
+## Chapter Eight - Pragmatic Projects
 
 * No Broken Windows - quality is a team issue.
 * Boiled Frogs - vigilant changes
