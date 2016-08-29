@@ -28,6 +28,7 @@ Repo to organize study material
 * [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
 * [Go: Best Practices for Production Environments](http://peter.bourgon.org/go-in-production)
 * [The Four Elements of Simple Design](http://martinfowler.com/bliki/BeckDesignRules.html)
+* [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 
 ## General annotations
 
