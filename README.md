@@ -29,6 +29,7 @@ Repo to organize study material
 * [Go: Best Practices for Production Environments](http://peter.bourgon.org/go-in-production)
 * [The Four Elements of Simple Design](http://martinfowler.com/bliki/BeckDesignRules.html)
 * [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
+* [Guard Clauses](http://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)
 
 ## General annotations
 
