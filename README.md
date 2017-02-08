@@ -5,15 +5,13 @@ Repo to organize study material
 
 ## Reading
 
-* [Release It!](https://pragprog.com/book/mnee/release-it) [(NOTES)](notes/releaseit.md)
-* [Pragmatic: Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [(NOTES)]((notes/pragmatic_thinking_and_learning.md))
+* [How to Win Friends and Influence People](https://www.amazon.com.br/How-Win-Friends-Influence-People/dp/0671027034) [(NOTES)](notes/win_friends_and_influence_people.md)
 
 ## Wishlist
 
+* [Pragmatic: Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) [(NOTES)]((notes/pragmatic_thinking_and_learning.md))
+* [Release It!](https://pragprog.com/book/mnee/release-it) [(NOTES)](notes/releaseit.md)
 * [Clean Code](http://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?ie=UTF8&qid=1434382564&sr=8-1&keywords=clean+code)
-* [Pragmatic: Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
-* [How Google test Software](https://books.google.com.br/books?id=VrAx1ATf-RoC&redir_esc=y)
-* [Programando em Go](http://www.casadocodigo.com.br/products/livro-google-go)
 
 ## Done
 
