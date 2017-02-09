@@ -2,6 +2,7 @@
 
 ## Chatpter One - "If You Want to Gather Honey, Don't Kick Over the Beehive"
 
-* Don't criticize, condemn, or complain.. Human does like admit fault. 
+* Don't criticize, condemn, or complain.. Human does like admit fault.
+* Humans learning more with honest and sincere appreciation than criticize. 
 
 
