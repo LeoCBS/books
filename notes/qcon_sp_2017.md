@@ -70,4 +70,95 @@
 * Akka
 * saber trabalhar com a incerteza
 
+## The Realist’s Guide to Language Design
 
+* Não tem linguagem perfeita
+* Deve evitar cometer erros
+* Dem ambiguidade.. mesma entrada mesmo valor sempre
+* Sintaxe intuitiva.. não pensar muito como faz um IF..
+* Footprint razoável
+* Abstração demais é ruim.. array..Lista vector..map.. collection
+* Eficiência
+* [lazy Evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation)
+- Tooling
+- Boa comunidade
+- [Idris Lang] (https://www.idris-lang.org/)
+
+## [Criptografia aplicada: de algoritmos a bibliotecas](http://qconsp.com/system/files/presentation-slides/bruno.applied-cryptography-qconsp2017.pdf)
+
+* Autenticidade
+* Confiabilidade
+* Integridade
+* Hash não garante integridade.. jah tem colisão
+* ECB é ruim para criptografia
+* GCM
+* RSA
+* Key agrement
+
+## [Microservices reativos e a experiência do iFood](http://qconsp.com/system/files/presentation-slides/tiago.dolphine.qcon_sp_2017_-_reactive_microservices.pdf)
+
+* manifesto reativo
+* não blocar as operações.. o DB avisa quando acabou a operação e ediciona informações as mensagens
+* stream reativo
+* reactor java
+* Spring
+
+## [Resiliência com microservices: cache distribuído, feedback e tuning na Globo.com](http://qconsp.com/system/files/presentation-slides/resiliencia_em_microservices.pdf)
+
+* [cachet status pages](https://github.com/CachetHQ/Cachet)
+* Backstage apis com tenants
+* Buffer em memória fazendo flush de tempos em tempos - votação BBB
+* Load balance
+
+
+## [Failing Gracefully with the Actor Model](http://qconsp.com/system/files/presentation-slides/roger.failingactors.pptx)
+
+* Não devolver o error direto para o usuário.. remanejar o erro pra quem pode corrigi-lo - erros supervisionados
+* Circuit break
+* fanout and quickest replay
+* active passive consume
+* modular redundancy
+* throttling to lead with load
+* bounded mailboxes
+* work pulling - blackpressure
+* orbit framework - virtual actor
+
+## From laptop to the world: multi-region container deployment with Kubernetes
+
+* Definir o ambiente de produção desde o começo do projeto.. pensar em como será pelo menos
+* Env de desenvolvimento deve ser mais próximo possível de prod.. para evitar configurações diferentes
+* Containers
+* /static
+* delete pod do k8s cria outro pod até q fique igual ao número do scale
+* Type loadbalancer
+* Dederativo service.. vários clusters de kubernetes
+* [Saturnism](https://github.com/saturnism)
+
+## [Processamento de Linguagem Natural com Deep Learning](http://qconsp.com/system/files/presentation-slides/juliano.viana_.kunumi_processamento-linguagem-natural-deep-learning-v3.pdf)
+
+* word2vec
+* vdb
+* recurrent network
+* long short term memory
+* detectar se a frase eh autêntica
+* música neural sabotagem
+* sequence prediction
+* seq2seq
+* chatbot .. converter perguntas em consultas SQL
+* cutting Edge models
+
+## [Billions and Billions](http://qconsp.com/system/files/presentation-slides/jim.qcon_fighting_fraud_with_graphs.pptx)
+
+## [How Apache Beam will change Big Data](http://qconsp.com/system/files/presentation-slides/jesse.beam_intro.pdf)
+
+* Tenta encapsular várias tecnologias.. Kafka.. hadoop
+* Uma unica API
+* Unifica diferentes API - Kafka se comunica com spark stream
+
+## [IoT e Smart Energy: monitoramento de instalações elétricas através do auto-registro de dispositivos](http://qconsp.com/system/files/presentation-slides/caio.cesar_.uiot-smart-energy.pdf)
+
+- Rede de dispositivos para ajudar a tomada de decisão
+- Auto registro do dispositivo
+- Tratar comportamento do dispositivo - validar o comportamento
+- Couch DB
+- Manutenção preventiva consumo de energia
