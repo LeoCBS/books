@@ -31,6 +31,10 @@ Repo to organize study material
 * [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 * [Guard Clauses](http://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)
 
+## Events
+
+* [QCON SP 2017](http://qconsp.com/) [NOTES](notes/qcon_sp_2017.md)
+
 ## General annotations
 
 * [Git](git_annotations.md)
