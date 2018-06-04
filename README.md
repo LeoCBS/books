@@ -31,6 +31,7 @@ Repo to organize study material
 * [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 * [Guard Clauses](http://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)
 * [Best Practices API HTTP](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 
 ## Events
 
