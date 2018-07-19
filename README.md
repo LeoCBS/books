@@ -32,6 +32,7 @@ Repo to organize study material
 * [Guard Clauses](http://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)
 * [Best Practices API HTTP](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
+* [Functional GO](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
 
 ## Events
 
