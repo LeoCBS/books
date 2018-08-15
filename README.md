@@ -14,6 +14,8 @@ Repo to organize study material
 * [Pragmatic: Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
 * [How Google test Software](https://books.google.com.br/books?id=VrAx1ATf-RoC&redir_esc=y)
 * [Programando em Go](http://www.casadocodigo.com.br/products/livro-google-go)
+* [The Web Application - Hacker’s Handbook](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
+
 
 ## Done
 
@@ -31,6 +33,8 @@ Repo to organize study material
 * [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 * [Guard Clauses](http://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)
 * [Best Practices API HTTP](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [How protect yourself](https://www.owasp.org/index.php/File_System#How_to_protect_yourself) 
+* [How protect yourself](https://www.owasp.org/index.php/File_System#How_to_protect_yourself) 
 
 ## Events
 
