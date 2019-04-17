@@ -25,6 +25,7 @@ Repo to organize study material
 
 ## Blogs, Podcasts, digital materials
 
+* [Python Common Gotchas](https://docs.python-guide.org/writing/gotchas)
 * [Vim as a Python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g&feature=youtu.be)
 * [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)
 * [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
