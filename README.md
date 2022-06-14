@@ -37,6 +37,7 @@ Repo to organize study material
 * [How protect yourself](https://www.owasp.org/index.php/File_System#How_to_protect_yourself) 
 * [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 * [Functional GO](https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4)
+* [The collapse of complex software](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 
 ## Events
 
